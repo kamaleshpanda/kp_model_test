@@ -1,0 +1,12 @@
+README.md
+setup.py
+eurosat_model/__init__.py
+eurosat_model/inference.py
+eurosat_model/model.py
+eurosat_model/preprocessor.py
+eurosat_model.egg-info/PKG-INFO
+eurosat_model.egg-info/SOURCES.txt
+eurosat_model.egg-info/dependency_links.txt
+eurosat_model.egg-info/requires.txt
+eurosat_model.egg-info/top_level.txt
+eurosat_model/weights/best_eurosat_model_best.pth
